@@ -1,3 +1,3 @@
 @echo off
 
-npm install && node_modules\.bin\hubot.cmd --name "ayakabot" %* 
+npm install && node_modules\.bin\hubot.cmd --name "claptrap" %* 
