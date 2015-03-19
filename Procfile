@@ -1,1 +1,1 @@
-web: bin/hubot -a slack -l ct
+web: bin/hubot -a slack -l cl
